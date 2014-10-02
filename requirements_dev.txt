@@ -8,6 +8,7 @@ Django
 twilio
 django_otp
 qrcode
+django-nexmo
 
 # Example app
 
