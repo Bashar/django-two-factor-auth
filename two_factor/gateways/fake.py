@@ -26,7 +26,7 @@ class Fake(object):
                 }
             }
         }
-    keeping this for fture voice integration with Nexmo
+    keeping this for future voice integration with Nexmo
     @staticmethod
     def make_call(device, token):
         logger.info('Fake call to %s: "Your token is: %s"', device.number, token)
